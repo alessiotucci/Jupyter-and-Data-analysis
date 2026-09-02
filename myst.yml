@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: aa77f6bf-b7b0-4d56-83fe-173d41933346
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/alessiotucci/Jupyter-and-Data-analysis
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
